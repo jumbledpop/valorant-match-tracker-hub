@@ -136,7 +136,7 @@ export const teams: Team[] = [
   {
     id: "t1",
     name: "Sentinels",
-    logo: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=300&h=300&fit=crop",
+    logo: "https://esports.gg/wp-content/uploads/2022/02/Sentinels-Logo.png",
     region: "NA",
     players: players.filter(p => p.team === "Sentinels"),
     rank: 1
@@ -144,7 +144,7 @@ export const teams: Team[] = [
   {
     id: "t2",
     name: "Fnatic",
-    logo: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=300&h=300&fit=crop",
+    logo: "https://upload.wikimedia.org/wikipedia/en/4/43/Esports_organization_Fnatic_logo.svg",
     region: "EU",
     players: players.filter(p => p.team === "Fnatic"),
     rank: 2
@@ -152,7 +152,7 @@ export const teams: Team[] = [
   {
     id: "t3",
     name: "Vision Strikers",
-    logo: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=300&h=300&fit=crop",
+    logo: "https://static.wikia.nocookie.net/valorant_esports_gamepedia_en/images/2/25/DRX_Logo.png",
     region: "KR",
     players: [],
     rank: 3
@@ -160,7 +160,7 @@ export const teams: Team[] = [
   {
     id: "t4",
     name: "Team Liquid",
-    logo: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=300&fit=crop",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Team_Liquid_logo.svg/1200px-Team_Liquid_logo.svg.png",
     region: "EU",
     players: [],
     rank: 4
@@ -168,7 +168,7 @@ export const teams: Team[] = [
   {
     id: "t5",
     name: "100 Thieves",
-    logo: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=300&h=300&fit=crop",
+    logo: "/lovable-uploads/289a1def-9dcb-4db9-8958-e21fd4fe3fd5.png",
     region: "NA",
     players: [],
     rank: 5
@@ -176,7 +176,7 @@ export const teams: Team[] = [
   {
     id: "t6",
     name: "G2 Esports",
-    logo: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=300&h=300&fit=crop",
+    logo: "https://logos-world.net/wp-content/uploads/2023/06/G2-Esports-Logo.png",
     region: "EU",
     players: [],
     rank: 6
