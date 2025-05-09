@@ -1,4 +1,3 @@
-
 export interface Player {
   id: string;
   name: string;
@@ -136,7 +135,7 @@ export const teams: Team[] = [
   {
     id: "t1",
     name: "Sentinels",
-    logo: "https://esports.gg/wp-content/uploads/2022/02/Sentinels-Logo.png",
+    logo: "/lovable-uploads/1b53dbca-c86b-44d1-8368-fdaa02211079.png",
     region: "NA",
     players: players.filter(p => p.team === "Sentinels"),
     rank: 1
@@ -152,7 +151,7 @@ export const teams: Team[] = [
   {
     id: "t3",
     name: "Vision Strikers",
-    logo: "https://static.wikia.nocookie.net/valorant_esports_gamepedia_en/images/2/25/DRX_Logo.png",
+    logo: "/lovable-uploads/865833c1-a8c5-48b0-8711-ddd3d31fdb56.png",
     region: "KR",
     players: [],
     rank: 3
@@ -160,7 +159,7 @@ export const teams: Team[] = [
   {
     id: "t4",
     name: "Team Liquid",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Team_Liquid_logo.svg/1200px-Team_Liquid_logo.svg.png",
+    logo: "/lovable-uploads/bcd8c5cc-f8e6-4e46-9706-a11e7c4dcf66.png",
     region: "EU",
     players: [],
     rank: 4
@@ -176,7 +175,7 @@ export const teams: Team[] = [
   {
     id: "t6",
     name: "G2 Esports",
-    logo: "https://logos-world.net/wp-content/uploads/2023/06/G2-Esports-Logo.png",
+    logo: "/lovable-uploads/f99b1da1-f7b4-4694-b53c-c0ce9011af45.png",
     region: "EU",
     players: [],
     rank: 6
