@@ -1,7 +1,7 @@
 
 import React from "react";
 import Layout from "../components/layout/Layout";
-import { events } from "../data/valorantData";
+import { events } from "../data"; // Updated import path
 import { Link } from "react-router-dom";
 
 const Events: React.FC = () => {

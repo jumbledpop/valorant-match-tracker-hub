@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import Layout from "../components/layout/Layout";
 import MatchCard from "../components/matches/MatchCard";
-import { matches } from "../data/valorantData";
+import { matches } from "../data"; // Updated import path
 import { Search } from "lucide-react";
 
 const Matches: React.FC = () => {

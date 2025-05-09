@@ -1,7 +1,6 @@
-
 import React from "react";
 import { Link } from "react-router-dom";
-import { Team } from "../../data/valorantData";
+import { Team } from "../../data";
 
 interface TeamCardProps {
   team: Team;

@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import Layout from "../components/layout/Layout";
 import TeamCard from "../components/teams/TeamCard";
-import { teams } from "../data/valorantData";
+import { teams } from "../data"; // Updated import path
 import { Search } from "lucide-react";
 
 const Teams: React.FC = () => {

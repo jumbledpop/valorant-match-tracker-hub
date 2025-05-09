@@ -2,7 +2,7 @@
 import React from "react";
 import { useParams, Navigate } from "react-router-dom";
 import Layout from "../components/layout/Layout";
-import { matches } from "../data/valorantData";
+import { matches } from "../data"; // Updated import path
 import { Avatar, AvatarImage, AvatarFallback } from "../components/ui/avatar";
 
 const MatchDetail: React.FC = () => {

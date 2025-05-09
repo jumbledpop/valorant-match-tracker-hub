@@ -3,7 +3,7 @@ import React from "react";
 import Layout from "../components/layout/Layout";
 import MatchCard from "../components/matches/MatchCard";
 import TeamCard from "../components/teams/TeamCard";
-import { getRecentMatches, getTopTeams, getUpcomingMatches } from "../data/valorantData";
+import { getRecentMatches, getTopTeams, getUpcomingMatches } from "../data"; // Updated import path
 import { Link } from "react-router-dom";
 
 const Index: React.FC = () => {

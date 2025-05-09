@@ -1,7 +1,6 @@
-
 import React from "react";
 import { Link } from "react-router-dom";
-import { Match } from "../../data/valorantData";
+import { Match } from "../../data";
 
 interface MatchCardProps {
   match: Match;
