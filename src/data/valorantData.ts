@@ -136,7 +136,7 @@ export const teams: Team[] = [
   {
     id: "t1",
     name: "Sentinels",
-    logo: "https://i.imgur.com/R9DFGfy.png",
+    logo: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=300&h=300&fit=crop",
     region: "NA",
     players: players.filter(p => p.team === "Sentinels"),
     rank: 1
@@ -144,7 +144,7 @@ export const teams: Team[] = [
   {
     id: "t2",
     name: "Fnatic",
-    logo: "https://i.imgur.com/KSrOtJ9.png",
+    logo: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=300&h=300&fit=crop",
     region: "EU",
     players: players.filter(p => p.team === "Fnatic"),
     rank: 2
@@ -152,7 +152,7 @@ export const teams: Team[] = [
   {
     id: "t3",
     name: "Vision Strikers",
-    logo: "https://i.imgur.com/Jo1yz1D.png",
+    logo: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=300&h=300&fit=crop",
     region: "KR",
     players: [],
     rank: 3
@@ -160,7 +160,7 @@ export const teams: Team[] = [
   {
     id: "t4",
     name: "Team Liquid",
-    logo: "https://i.imgur.com/h7AVvTH.png",
+    logo: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=300&fit=crop",
     region: "EU",
     players: [],
     rank: 4
@@ -168,7 +168,7 @@ export const teams: Team[] = [
   {
     id: "t5",
     name: "100 Thieves",
-    logo: "https://i.imgur.com/NzJOhT0.png",
+    logo: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=300&h=300&fit=crop",
     region: "NA",
     players: [],
     rank: 5
@@ -176,7 +176,7 @@ export const teams: Team[] = [
   {
     id: "t6",
     name: "G2 Esports",
-    logo: "https://i.imgur.com/HQIKuAP.png",
+    logo: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=300&h=300&fit=crop",
     region: "EU",
     players: [],
     rank: 6
